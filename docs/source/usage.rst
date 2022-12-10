@@ -1,4 +1,4 @@
-Usage
+Walter
 =====
 
 .. _installation:
